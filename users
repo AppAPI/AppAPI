@@ -1,0 +1,27 @@
+[
+  {
+    "name": "John Smith",
+    "mail": "john@smith.com",
+    "id": 101
+  },
+  {
+    "name": "David Carlos",
+    "mail": "david@carlos.com",
+    "id": 112
+  },
+  {
+    "name": "Michael Clarke",
+    "mail": "michael@clarke.com",
+    "id": 123
+  },
+  {
+    "name": "Chris Smith",
+    "mail": "chris@smith.net",
+    "id": 134
+  },
+  {
+    "name": "Mike Jones",
+    "mail": "mike@jones.com",
+    "id": 145
+  }
+]
