@@ -1,27 +1,37 @@
 [
   {
-    "name": "John Smith",
-    "mail": "john@smith.com",
-    "id": 101
+    "id": 101,
+    "mail": "brad@pitt.com",
+    "name": "Brad Pitt",
+    "dob": "",
+    "avatar": "https://appfile.github.io/Brad-Pitt.jpg"
   },
   {
-    "name": "David Carlos",
-    "mail": "david@carlos.com",
-    "id": 112
+    "id": 112,
+    "mail": "george@clooney.com",
+    "name": "George Clooney",
+    "dob": "",
+    "avatar": "https://appfile.github.io/George-Clooney.jpg"
   },
   {
-    "name": "Michael Clarke",
-    "mail": "michael@clarke.com",
-    "id": 123
+    "id": 123,
+    "mail": "leonardo@dicaprio.com",
+    "name": "Leonardo DiCaprio",
+    "dob": "",
+    "avatar": "https://appfile.github.io/Leonardo-DiCaprio.jpg"
   },
   {
-    "name": "Chris Smith",
-    "mail": "chris@smith.net",
-    "id": 134
+    "id": 134,
+    "mail": "sylvester@stallone.net",
+    "name": "Sylvester Stallone",
+    "dob": "",
+    "avatar": "https://appfile.github.io/Sylvester-Stallone.jpg"
   },
   {
-    "name": "Mike Jones",
-    "mail": "mike@jones.com",
-    "id": 145
+    "id": 145,
+    "mail": "tom@cruise.com",
+    "name": "Tom Cruise",
+    "dob": "",
+    "avatar": "https://appfile.github.io/Tom-Cruise.jpg"
   }
 ]
